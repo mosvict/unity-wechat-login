@@ -1,12 +1,5 @@
 # UnityDemo_QQWechatAuthLogin
 
-****
-
-### Author : Xieliujian
-### E-mail : 377624289@qq.com
-
-****
-
 <h2 id="Demo6">QQWechatAuthLogin的Demo展示使用ShareSDK进行QQ和Wechat登录</h2>
 
 * a, 效果图如下:
