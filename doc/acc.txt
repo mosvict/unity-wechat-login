@@ -1,0 +1,14 @@
+AppID: wx93336ac25e1c9411
+AppSecret: 5dc344c4664fb6e41bb2cc1870a7d2b4
+gh_6860efca9fea
+
+bundle id
+com.gezapp.ovr
+
+
+mob site app acc
+2c345dfbda5ae
+af4f3884c353e3097f18d2606b24bdf2
+
+wechat developer acc
+info@ovr.ai
